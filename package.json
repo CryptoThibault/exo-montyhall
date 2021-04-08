@@ -6,6 +6,7 @@
   "author": "CryptoThibault <thibault.chalaoux@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "crypto": "^1.0.1"
+    "crypto": "^1.0.1",
+    "readline-sync": "^1.4.10"
   }
 }
