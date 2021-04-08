@@ -11,7 +11,7 @@ for (let i = 0; i < Nbtry; i++) {
   gates.splice(defaultChoice, 1)
   const showIndex = gates[0] === 'goat' ? 0 : 1
   gates.splice(showIndex, 1)
-  if (defaultChange) { choiceGate = gates.join() }
+  if (defaultChange) { choiceGate = gates[0] }
   if (choiceGate === 'car') { count++ }
 }
 console.log(count)
