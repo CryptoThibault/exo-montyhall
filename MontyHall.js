@@ -12,3 +12,4 @@ gates.splice(showIndex, 1)
 console.log(gates) // porte restante
 if (readlineSync.keyInYN('Voulez vous changez de porte ? ')) { choiceGate = gates.join() }
 console.log(`Dériére votre porte il y a : ` + choiceGate)
+
