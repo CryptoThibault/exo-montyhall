@@ -1,0 +1,11 @@
+{
+  "name": "exo-montyhall",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/CryptoThibault/exo-montyhall.git",
+  "author": "CryptoThibault <thibault.chalaoux@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}
